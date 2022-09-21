@@ -8,8 +8,7 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
-
+ 
 ## Contribution
 
 [See the contribution guide.](./CONTRIBUTING.md)
