@@ -1,5 +1,5 @@
 
-# Boostrap 4 Github Pages
+# Boostrap 
 
 A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
